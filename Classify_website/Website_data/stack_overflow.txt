@@ -1,0 +1,1041 @@
+
+Stack Overflow
+
+    Questions
+    Jobs
+    Documentation
+    beta
+    Tags
+    Users
+
+1
+●4
+
+Top Questions
+interesting
+356 featured
+hot
+week
+month
+0
+votes
+0
+answers
+2
+views
+how to arrange to columns in excel. can excel fit 500 columns?
+excel
+asked 41 secs ago user3959104 11
+2k
+votes
+21
+answers
+1.6m
+views
+How to append something to an array?
+javascript arrays append
+answered 1 min ago Alireza 843
+-2
+votes
+2
+answers
+48
+views
+Post not working in form with checkbox
+php sql class oop
+modified 1 min ago Moya 32
+0
+votes
+0
+answers
+11
+views
+net.ucanaccess.jdbc.UcanaccessSQLException:UCAExc:::3.0.4 incompatible datatypes in combination
+java swing ms-access jdbc ucanaccess
+modified 1 min ago Gord Thompson 62.2k
+1
+vote
+1
+answer
+31
+views
+JAVA double to string format
+java string double string-conversion
+modified 2 mins ago Muntasir 434
+0
+votes
+0
+answers
+3
+views
+JSlider SynthLookandFeel Fill color
+java swing
+asked 2 mins ago navy1978 101
+0
+votes
+0
+answers
+3
+views
+deref of udt shows 0 records in jtable
+java oracle swing jtable user-defined-types
+asked 3 mins ago J.Pole 3
+0
+votes
+0
+answers
+7
+views
+CachedRowSet and SQLite JDBC driver
+java sqlite jdbc driver rowset
+modified 3 mins ago Mark Rotteveel 41.8k
+0
+votes
+0
+answers
+8
+views
+2d array getting RGB java
+java
+asked 4 mins ago zlatcheto 1
+0
+votes
+0
+answers
+3
+views
+Python SleekXMPP - ClientXMPP.process result
+python xmpp sleekxmpp
+asked 4 mins ago cofeee 8
+0
+votes
+2
+answers
+30
+views
+Duplicated results in Hibernate OneToMany List
+java sql hibernate duplicates
+answered 4 mins ago ssoomm07 1
+0
+votes
+0
+answers
+20
+views
+show camera target three.js
+javascript three.js
+modified 4 mins ago gman 31.1k
+1
+vote
+0
+answers
+3
+views
+Android draw image on top of circle dynamically
+java android colors
+modified 4 mins ago Denise Tan 437
+0
+votes
+0
+answers
+3
+views
+How to handle/process Data payload (inc. Notification) of Firebase Cloud Messagingin an Android app?
+java android firebase
+asked 4 mins ago ikevin8me 1,495
+0
+votes
+0
+answers
+6
+views
+Colon being sanitized from variable Wordpress
+php wordpress woocommerce hook-woocommerce
+asked 5 mins ago Chris McCreery 1
+0
+votes
+2
+answers
+11
+views
+asp.net load random
+c# sql asp.net visual-studio
+answered 6 mins ago Gordon Linoff 542k
+1
+vote
+2
+answers
+36
+views
+Dynamic column name using prepared statement + sql query with variable containing 's
+java mysql sql jdbc
+modified 6 mins ago Mark Rotteveel 41.8k
+0
+votes
+2
+answers
+18
+views
+How to update a record's PK which with FK point to
+oracle transactions
+modified 6 mins ago Marmite Bomber 4,290
+2
+votes
+1
+answer
+50
+views
+Python Ghost module not loading page properly
+java python html session ghost
+answered 7 mins ago Tom 33
+0
+votes
+1
+answer
+191
+views
+Filter SQLAlchemy query with Python 3.5
+python sql python-2.7 python-3.x sqlalchemy
+modified 8 mins ago TuringTux 490
+1
+vote
+1
+answer
+32
+views
+Program that uses jpbc takes a long time
+java performance cryptography
+modified 8 mins ago Artjom B. 45.7k
+0
+votes
+0
+answers
+15
+views
+How to do tasks by reading a string from left to right, and then do tasks assigned to each character?
+java
+modified 9 mins ago ΦXocę 웃 Пepeúpa ツ 21.8k
+1
+vote
+1
+answer
+28
+views
+ValueAnimator makes one element disappear?
+java android animation android-animation
+modified 9 mins ago Bhargav Rao♦ 25.3k
+0
+votes
+0
+answers
+7
+views
+Two panes or two scenes in JavaFX?
+java javafx javafx-2 javafx-8
+asked 10 mins ago Pablo 87.5k
+1
+vote
+1
+answer
+5
+views
+FCM how to display data from notification click in another activity
+java android firebase-cloud-messaging
+modified 13 mins ago Eran 192k
+2
+votes
+2
+answers
+29
+views
+Use lambdas to create new Object from 2 existing Objects, summing up various values from various Objects in ArrayList fields
+java lambda
+modified 14 mins ago Robin Topper 1,046
+0
+votes
+0
+answers
+3
+views
+Open Excel sheet with OleDbAdaptor and query parameters
+c# sql excel oledb
+asked 14 mins ago Jahmic 4,654
+0
+votes
+0
+answers
+3
+views
+Android - Capture radio audio and save the audio into an stream buffer / file
+java android audio-streaming audio-recording
+asked 14 mins ago davidesp 63
+0
+votes
+1
+answer
+12
+views
+Replace zero result with 1
+sql sql-server
+answered 14 mins ago Gordon Linoff 542k
+0
+votes
+0
+answers
+6
+views
+Decoding a specific URL with Java in Android Studiot
+java android url decoding
+asked 15 mins ago martynaskuc 35
+0
+votes
+1
+answer
+23
+views
+SqliteDataReader doesn't work in C#?
+c# html mysql database sqlite
+modified 15 mins ago Dmitry Bychenko 71.9k
+0
+votes
+0
+answers
+7
+views
+Interaction with another java application wich is an executable jar file
+java testing jar automated-tests awtrobot
+asked 16 mins ago Legend27 1
+7
+votes
+4
+answers
+21k
+views
+Appium Error : A new session could not be created. (Original error: Did not get session redirect from Chromedriver)
+java selenium appium
+modified 18 mins ago Community♦ 1
+1
+vote
+1
+answer
+37
+views
+Find next consecutive row by order_num field
+sql database postgresql greatest-n-per-group
+modified 19 mins ago Erwin Brandstetter 251k
+0
+votes
+0
+answers
+7
+views
+Java XML XPath Full XML
+java node.js xml xpath
+asked 22 mins ago K Christl 8
+-1
+votes
+1
+answer
+23
+views
+How to call a report in same directory in javafx?
+java jasper-reports
+modified 23 mins ago halfer 12.7k
+0
+votes
+0
+answers
+6
+views
+Netbeans Maven Spring boot error
+java spring maven spring-mvc
+asked 24 mins ago Osman Kabasakal 1
+0
+votes
+0
+answers
+4
+views
+Collecting number of views a specific page has been viewed - SOAP / JAVA only.
+java web-services soap
+asked 27 mins ago Kristof Johanson 8
+1
+vote
+1
+answer
+20
+views
+How do I do a subquery using sqldf in r
+sql r sqldf
+modified 27 mins ago Ajay Ohri 580
+0
+votes
+0
+answers
+4
+views
+.java file to run another .java (frames) through Process
+java swing user-interface process runtime
+asked 28 mins ago iambuzzify 1
+0
+votes
+1
+answer
+17
+views
+Error converting data type varchar to float.?
+c# sql asp.net database
+answered 31 mins ago Gordon Linoff 542k
+0
+votes
+2
+answers
+31
+views
+How to invoke Restful WebService in Spring Boot
+java spring web-services spring-boot controller
+answered 32 mins ago Nur Alam Zico 48
+0
+votes
+0
+answers
+8
+views
+Hibernate SQL - intermediate table b/w parent and child (of different types)
+java mysql sql-server hibernate
+asked 33 mins ago Aashir 2,072
+0
+votes
+0
+answers
+5
+views
+jersey server - convert json object request to model object
+java json model-view-controller server jersey
+asked 33 mins ago foo 61
+0
+votes
+0
+answers
+10
+views
+Java Server and Client in one program
+java server client
+asked 36 mins ago vogs 9
+0
+votes
+0
+answers
+7
+views
+Wipe Free Space using Java Android
+java android
+asked 36 mins ago user4905906 27
+0
+votes
+0
+answers
+5
+views
+(Android Studio) Error on sending data to server XAMPP
+android database server
+asked 36 mins ago Abdullah Amin 1
+-1
+votes
+0
+answers
+9
+views
+Auto-generating jsp page(s) for CRUD, for existing table
+java mysql jsp crud
+asked 39 mins ago Yogev Levy 123
+0
+votes
+0
+answers
+6
+views
+Android Google Maps: adequately adjust map padding for different device sizes
+java android google-maps-api-2
+asked 40 mins ago Fullhdpixel 77
+1
+vote
+1
+answer
+27
+views
+Elliptic Curve Cryptography on PHP and Android
+java php android public-key-encryption elliptic-curve
+modified 47 mins ago Justas 824
+-1
+votes
+0
+answers
+30
+views
+how to create / add new rest end point to the running application?
+java spring rest java-ee spring-boot
+modified 48 mins ago anusha 1
+0
+votes
+1
+answer
+25
+views
+Cassandra - Make Counter Update And Normal Update Atomic
+java batch-file cassandra counter
+modified 49 mins ago Ashraful Islam 3,840
+0
+votes
+1
+answer
+19
+views
+Java Netbeans IDE, conversion giving me an error
+java numberformatexception
+modified 49 mins ago a_horse_with_no_name 214k
+0
+votes
+0
+answers
+15
+views
+How to insert into a view of joins?
+sql oracle
+modified 50 mins ago Toma Radu-Petrescu 539
+0
+votes
+1
+answer
+22
+views
+Most efficient way to query SQL Server large table almost complete result set
+sql sql-server performance database-performance large-data
+modified 52 mins ago marc_s 485k
+0
+votes
+0
+answers
+34
+views
+AAC stream (android mediaCodec) to PCM (in java)
+java android audio pcm aac
+modified 54 mins ago user5599807 514
+1
+vote
+2
+answers
+17
+views
+How to separated multi delimited data and concatenate in one column
+sql
+answered 55 mins ago a_horse_with_no_name 214k
+0
+votes
+2
+answers
+18
+views
+SQLSTATE[HY000] [2002] Connection refused within Laravel 000webhost
+php mysql database laravel
+modified 1 hour ago Dov Benyomin Sohacheski 943
+2
+votes
+0
+answers
+21
+views
+Handle large touching surface on Android
+java android events event-handling touch
+modified 1 hour ago Neir0 11
+0
+votes
+0
+answers
+6
+views
+Complex Array Query in Ecto (Elixir)
+sql elixir ecto phoenix
+asked 1 hour ago Florian Lamache 11
+-1
+votes
+0
+answers
+17
+views
+How to get into SQL database?
+sql database login passwords
+asked 1 hour ago Matěj Pospíšil 2
+0
+votes
+0
+answers
+13
+views
+Update “Online Balance” realtime
+java spring-boot spring-data-jpa spring-transactions spring-jms
+asked 1 hour ago Daniel Ameyaw 1
+1
+vote
+0
+answers
+15
+views
++50
+Add AspectJ in Webservice
+java web-services maven aspectj
+modified 1 hour ago goblingift 65
+0
+votes
+0
+answers
+13
+views
+Java library to organize restricted access sections
+java multithreading
+modified 1 hour ago Zur13 126
+0
+votes
+0
+answers
+13
+views
+Configure One to One relationship in Hibernate 5 being able to ASSIGN the child entity by ID
+java hibernate jpa orm
+asked 1 hour ago flywave17 1
+0
+votes
+0
+answers
+12
+views
+Rewrite JSON data within a .js file when submitting HTML form
+javascript html json database forms
+asked 1 hour ago Danny 1
+2
+votes
+2
+answers
+37
+views
+Why its not displaying current time zone?
+php mysql sql mysqli phpmyadmin
+modified 1 hour ago RïshïKêsh Kümar 374
+0
+votes
+0
+answers
+5
+views
+Is using ThreadMXBean the right way to go when performance testing a database insert
+java database performance-testing rethinkdb
+asked 1 hour ago woodsprite 383
+0
+votes
+0
+answers
+10
+views
+Hadoop java : finding max of sum by part of key, hashmap, cleanup
+java hadoop
+modified 1 hour ago caroline 1
+0
+votes
+1
+answer
+15
+views
+sqoop export gives java.nio.BufferOverflowException with table(~120 columns)
+mysql export sqoop
+answered 1 hour ago Samson Scharfrichter 3,780
+3
+votes
+1
+answer
+35
+views
+How to parse multiple integers
+java parsing int
+modified 1 hour ago Shashwat 2,077
+0
+votes
+0
+answers
+11
+views
+Merging 2 ArrayBlockingQueue in one ArrayBlockingQueue
+java merge queue blockingqueue
+modified 1 hour ago Ferrybig 5,418
+-1
+votes
+0
+answers
+4
+views
+Weblogic WLST domainCustom () does not show all MBeans
+java weblogic wlst
+asked 1 hour ago Fox Yovovich 1
+0
+votes
+1
+answer
+17
+views
+How to get message from calling?
+java android
+answered 1 hour ago Swarnveer 330
+0
+votes
+1
+answer
+14
+views
+How to group by with two columns and viceversa
+sql postgresql
+answered 1 hour ago Gordon Linoff 542k
+1
+vote
+0
+answers
+6
+views
+OpenGL 2D projection matrix not drawing anything
+java opengl 2d lwjgl projection-matrix
+modified 1 hour ago rodit 1,177
+0
+votes
+0
+answers
+18
+views
+Cannot resolve symbol
+java selenium intellij-idea
+asked 1 hour ago Yaniv Eliav 178
+0
+votes
+0
+answers
+11
+views
+Iterate over HashMap to add JMenuItem(s) to JMenu(s)
+java swing hashmap jmenu jmenuitem
+modified 1 hour ago jas97 1
+0
+votes
+0
+answers
+21
+views
+Android Studio Can't Show Recycler View
+java android
+modified 1 hour ago Kuro neko 1
+0
+votes
+1
+answer
+15
+views
+Simple sql query return zero row [solved]
+mysql sql database
+modified 1 hour ago mayan anger 103
+0
+votes
+0
+answers
+9
+views
+Digital signature check with a very short signature length
+java cryptography
+asked 1 hour ago Alex 12k
+0
+votes
+1
+answer
+10
+views
+access to database remotely-NESTED EXCEPTION
+java database ssh remote-access
+answered 1 hour ago xormar 25
+0
+votes
+0
+answers
+9
+views
+Websocket path being ignored when a wildcard get is mapped in Spark
+javascript java websocket routes spark-java
+modified 2 hours ago lochlanna 126
+0
+votes
+1
+answer
+11
+views
+sync_binlog is different for master and slave
+mysql sql mysqlbinlog
+answered 2 hours ago Michael - sqlbot 46.3k
+0
+votes
+0
+answers
+15
+views
+Is Android Wear 2.0's version of SimpleDateFormat broken?
+java android android-wear simpledateformat android-wear-2.0
+modified 2 hours ago Trejkaz 4,722
+1
+vote
+1
+answer
+24
+views
+Data Movement Within the Hadoop / Spark Ecosystem
+hadoop apache-spark cloudera hdinsight databricks
+answered 2 hours ago Lace 134
+0
+votes
+0
+answers
+9
+views
+Running php on Hortonworks sandbox
+php apache hadoop xampp hortonworks-data-platform
+asked 2 hours ago Aditya Roy - Consultant 24
+0
+votes
+0
+answers
+5
+views
+Sorting in mongo sharding environments degrades performance
+ruby-on-rails database mongodb nosql mongoid
+asked 2 hours ago Bernie Chiu 129
+0
+votes
+0
+answers
+7
+views
+How to model an objective function which is not a sum using cplex java
+java cplex
+asked 2 hours ago jkaapi 1
+2
+votes
+0
+answers
+11
+views
+JNIUS & TIKA - error trying to parseToString
+java python apache-tika pyjnius tika-server
+modified 2 hours ago jonrsharpe 64.6k
+0
+votes
+0
+answers
+7
+views
+Eclipse console hyperlink only can jump to Java class file in referenced libraries
+java eclipse console log4j2
+asked 2 hours ago Thang Le 184
+1
+vote
+1
+answer
+11
+views
+Building GeoTools Geometry “segments” from route coordinates
+java algorithm geotools
+answered 2 hours ago iant 2,466
+1
+vote
+1
+answer
+11
+views
+i always getting error on migration , what can i do for this kind of error
+php database laravel-5 migration
+modified 2 hours ago Kris Roofe 7,472
+0
+votes
+0
+answers
+9
+views
+Web access control not work with ResourceServerConfigurerAdapter and WebSecurityConfigurerAdapter
+java spring spring-security spring-oauth2
+modified 2 hours ago Azzabi Haythem 259
+0
+votes
+0
+answers
+5
+views
+hadoop WordCount stuck at map 0% reduce 0%
+hive mapreduce yarn hadoop2
+asked 3 hours ago Gil 1
+1
+vote
+0
+answers
+13
+views
+Derby export and import database securely
+java database derby
+modified 4 hours ago a_horse_with_no_name 214k
+
+Looking for more? Browse the complete list of questions, or popular tags. Help us answer unanswered questions.
+Ask Question
+Blog
+Is Your Favorite Open Source Technology in Growth or Decline?
+
+Hot Meta Posts
+57
+Is the top bar redesign the sole cause of the suggested edit slowdown?
+
+14
+Is this Serial Upvoting?
+
+7
+Revert [version] to version 0
+
+Favorite Tags edit
+hadoop sqoop hive java sql database
+
+Looking for a job?
+
+    Big Data Course Authoring Opportunity at Pluralsight (FREELANCE)
+    PluralsightNo office location
+    Remote
+    hadoopflume
+    Lead Full Stack developer | Mumbai
+    Wissen TechnologyMumbai, India
+    ₹1500k - ₹4000kRelocation
+    multithreadingdata-structures
+    Senior Data Science Engineer
+    RakutenSetagaya, Japan
+    Visa Sponsorship
+    etlpython
+    Java Chief Software Architect - $100K
+    CrossoverNo office location
+    Remote
+    javacloud
+
+Hot Network Questions
+
+    Why are so many Americans against Obamacare?
+    Are threads implemented as processes on Linux?
+    Did wind power supply less than half a percent of global energy in 2014?
+    Can I resize multiple images in a directory to 160x160 at once?
+    IRS sent me a letter...I messed up by unwittingly taking money out of a Roth IRA and reporting it incorrectly
+    How can I improve suggesting classes to new players?
+    What kind of flowering plant is this?
+    After admission, should I thank a recommender who I suspect wrote a bad letter?
+    Why hasn't the US political system taken recourse against Trump for his politically motivated firings?
+    What makes smartphones tilt-sensitive? Will they retain this ability in zero-gravity conditions?
+    Does the start equal the end?
+    Infinity times i
+    Idiom for making others feel bad to make myself feel good?
+    How could an apocalypse kill off all adults -- leaving only those under the age of 18?
+    Identify fossil
+    Is it possible to do android development effectively on vim?
+    Do I enforce a punishment/retribution promised some time ago?
+    Counting the number of satisfying assignments in a POSITIVE CNF-SAT
+    Create a disease that can easily be cured by adopting a custom from another culture
+    Why is deep learning hyped despite bad VC dimension?
+    Name the movie on Nanobots and cheating wife
+    What my dog really hears
+    How is the "WannaCry" Malware spreading and how should users defend themselves from it?
+    What is Google Translate good for (Latin)?
+
+recent questions feed
+about us tour help blog chat data legal privacy policy work here advertising info developer jobs directory mobile contact us feedback
+Technology 	Life / Arts 	Culture / Recreation 	Science 	Other
+
+    Stack Overflow
+    Server Fault
+    Super User
+    Web Applications
+    Ask Ubuntu
+    Webmasters
+    Game Development
+    TeX - LaTeX
+    Software Engineering
+    Unix & Linux
+    Ask Different (Apple)
+    WordPress Development
+
+	
+
+    Geographic Information Systems
+    Electrical Engineering
+    Android Enthusiasts
+    Information Security
+    Database Administrators
+    Drupal Answers
+    SharePoint
+    User Experience
+    Mathematica
+    Salesforce
+    ExpressionEngine® Answers
+    Cryptography
+
+	
+
+    Code Review
+    Magento
+    Signal Processing
+    Raspberry Pi
+    Programming Puzzles & Code Golf
+    more (7)
+
+	
+
+    Photography
+    Science Fiction & Fantasy
+    Graphic Design
+    Movies & TV
+    Music: Practice & Theory
+    Seasoned Advice (cooking)
+    Home Improvement
+    Personal Finance & Money
+    Academia
+    more (8)
+
+	
+
+    English Language & Usage
+    Skeptics
+    Mi Yodeya (Judaism)
+    Travel
+    Christianity
+    English Language Learners
+    Japanese Language
+    Arqade (gaming)
+    Bicycles
+    Role-playing Games
+    Anime & Manga
+    Motor Vehicle Maintenance & Repair
+    more (17)
+
+	
+
+    MathOverflow
+    Mathematics
+    Cross Validated (stats)
+    Theoretical Computer Science
+    Physics
+    Chemistry
+    Biology
+    Computer Science
+    Philosophy
+    more (3)
+
+	
+
+    Meta Stack Exchange
+    Stack Apps
+    Area 51
+    Stack Overflow Talent
+
+site design / logo © 2017 Stack Exchange Inc; user contributions licensed under cc by-sa 3.0 with attribution required
+rev 2017.5.12.25906

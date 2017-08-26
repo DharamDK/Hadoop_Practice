@@ -1,0 +1,260 @@
+
+etlhive
+
+    Login
+
+    mail@etlhive.com
+    TOLL FREE- 8055020011
+    Branches – PIMPLE SAUDAGAR
+    NAL STOP
+    KHARADI
+
+etlhive
+
+    Home
+    Courses
+    Certification Courses
+    Contact Us
+    BLOG
+    Corporate Training
+    FAQs
+
+Hadoop development
+Pimple Saudagar
+
+Nal Stop
+
+Leader in BigData training
+
+Kharadi
+#01
+
+Hadoop | Spark | Scala | R Prog.| Mahout | MlLib | Shark | Storm | Data Science
+
+Mapreduce | Yarn | Hue | Hcatalog | Pig | Hive | Oozie | Sqoop | Impala | MongoDb
+
+Wakad
+Customer Training
+
+admin-ajax
+
+ Never before have consumers been so highly educated on brands and their products. Today’s availability and access to information has created immense opportunities to reach customers. The blurring lines of training and marketing can be exemplified greatest through customer training. Effective training can create better adoption of services, customer satisfaction with products and importantly, build a deeper relationship between the customer and your brand and culture. Our primary segment of focus is in Bigdata and Hadoop training in Pune.
+Corporate Training
+
+ banner4
+
+ Learning and Development’s impact on the success of an organization can be significant. You can be assured your corporate training programs will be successful when you have the right training development partner. Training and development practices also have their importance for professional education educators also. As there is a need to evaluate the benchmark practices followed for professional education educators to find out that whether the training program which they opt is according to their training need or they are selecting these training programmes at exquisite sources.
+Online Trainingbanner3
+
+ banner3
+
+Technology provides access to a consumer at their point of need. Technology that easily delivers content designed for just-in-time scenarios provides consumers with relevant information that enhances their experience and establishes trust in a brand. The solutions in learning technology that bring customers mobile learning, video-based learning and bite-sized elearning modules generate an overall better customer experience.
+
+Our Courses
+
+ 
+Hadoop
+Hadoop Development
+
+  Apache Hadoop is an framework for Bigdata processing of massively huge datasets on low cost commodity hardware.  Scalable architecture which makes it so popular is being deployed by all leading MNC giants is now taking a revolutionary step in analytics. Itelligence is one of the biggest institutes for hadoop and bigdata training in pune.
+
+Required skillset: Basics of Java(classes, objects, inheritence, methods etc), basics of SQL.[People with non JAVA background also have Pig and hive {languages} which were developed for the sole purpose of non JAVA developers, to be able to work with Hadoop.
+
+Eligibility criteria: Mainframe developers, Application developers and testers, Freshers (Btech, BE, BCA, Mtech, ME),  Architects and Business developers in presales. click here to view syllabus
+
+ 
+Data Science Training
+Data Science
+
+  Data science refers to complex processing techniques on statistical data for mining purpose, commons techniques are regression, classification etc. Machine learning algorithms would be covered as a part of this syllabus.
+
+Prerequisites: Basics of statistics and probability theory, Interest in machine learning. Apart from this, course syllabus includes a special prerequisites training program for people from non statistical background.
+
+Eligibility criteria:  Freshers from BCA, Btech, Mtech, MCA backgrounds, Professionals who wish to switch from system administration background. Individuals who have a career gap. click here to view syllabus 
+
+ 
+
+ 
+
+ 
+
+ 
+Informatica
+Data Warehousing
+
+Informatica is one of the most widely used ETL tool in the market. The only proof of its success is its global acceptance by IT industry. This course is intended towards conceptual data warehousing and Business Intelligence  by visualizing data while transforming and loading.
+
+Required skillset: Basics understanding of any database (SQL, DB2, Sybase, Netazza, Oracle etc).
+
+Eligibility criteria: Mainframe developers(Working with COBOL or DB2), Application developers and testers, Freshers (Btech, BE, BCA, Mtech, ME),  Datawarehosuing professionals working with either PLSQL,BO, Talend , Pentaho, Abinitio, Microstrategy etc. who wish to have an add-on on their resume, Architects and Business developers in presales. click here to view syllabus
+
+ 
+Digital Marketing
+
+Digital marketing course helps freshers, working professionals and consultants to get an insight of content based marketing on various digital and social media platforms.
+
+Required Skill set: Basics of computers and internet.
+
+Eligibility criteria: Every fresher or working professionals with any skillset willing to become a digital marketing executive . click here to view syllabus
+selenium training in pune
+Advanced Selenium
+
+Selenium would be the next step ahead for you in case if you are a manual tester and looking for skill enhancement in Automation testing.
+
+Required skill set: Basics of manual testing, test case formulation and atleast one to two years of experience in manual testing.
+
+Eligibility criteria: Software testers and freshers who have completed manual testing course. click here to view syllabus
+
+ 
+
+ 
+Graphic3
+Hadoop Administration
+
+  Apache Hadoop is one of the most popular and widely used framework for Bigdata Analytics. Most of the Fortune 500 companies have full implemented and functional hadoop cluster. Hadoop administration training is focused towards administration of a cluster including setup, maintenance and  decommisioning.
+
+Required skillset: Generics of Linux/Windows administration.
+
+Eligibility criteria: System administrators,  Prossionals from application, Database, storage or virtualization administration. click here to view syllabus
+
+ 
+plsql
+PL/SQL
+
+Any fresher who desires to have a career in database development, PLSQL is the only choice of programming for you. IZO-147 is the certification available for PL/SQL.
+
+Required skillset: Basic knowledge of SQL.
+
+Eligibility criteria: Freshers (BE/Btech, MCA, ME/MTech, BCA in any stream ), People from SQL background who want to switch their profile to PLSQL. click here to view syllabus
+
+ 
+
+redhat Linux
+Linux administration
+
+Linux administration serves as a core foundation for any of virtualization, system administration , Netbackup, Application administration or database administration.
+
+Required skillset: Basic knowledge of Hardware and operating systems.
+
+Eligibility criteria: Backoffice, people working in IT support, technical support who wish to switch their profile into IT administration or Freshers (BE/Btech, MCA, ME/MTech, BCA in any stream ), People from application administration who want to switch their profile to testing. click here to view syllabus
+
+ 
+
+Mean Stack
+ Mean Stack
+
+MEAN STACK, as the name reflects, is a “Full Stack” Javascript Framework comprising of four technologies namely: Mongo Db, Express, Angular JS, and Node.js
+
+Required skillset: Prior Web Development Experiences and knowledge of HTML, CSS, and JavaScript are mandatory to take up this course.
+
+Eligibility criteria: Web Developers and Mobile App Developers keen on developing robust web applications, managing a team of developers, and initiating front-end and back-end support. click here to view syllabus
+Salesforce
+
+Majority of the Fortune 500 Companies rely on Salesforce for Customer Relationship Management (CRM). As a matter of fact, Salesforce, with its evolved CRM Cloud Software, has emerged as a leading success maker which helps your Business grow faster, henceforth helping you reach millions of customers in one go.
+
+Required skillset: The individual must have basic Business Understanding of JAVA and SQL, and a moderate Knowledge of Customer Relationship Management, and Cloud Computing.
+
+Eligibility criteria: Individuals who aspire to become successful Business Analysts, Salesforce Developers, Techno-Functional Analysts must undertake this training. In addition, all the Business administrators who wish to understand business ethics and other allied concepts such as Sales Forecasting, Contact Management, and Analytics Reporting should opt for this course.click here to view syllabus
+
+ 
+AngularJs
+
+Angular JS which is highly beneficial for the Web Designing/Developing enthusiasts. The knowledge provided by the ETLhive professionals enables the professionals to transform the traditional HTML into dynamic user interfaces
+
+Required skillset: Moderate knowledge of HTML and in-depth knowledge of Java Script will be beneficial.
+
+Eligibility criteria:This course is designed for budding Web Developers, Web Designers, and for the individuals who have mastered Java Scriptand wish to carve a niche for themselves in the Web developing . click here to view syllabus
+
+Python
+
+This high-level programming language with its powerful library, clear syntax, and high readability has emerged as one of the "must-know" languages.
+
+Required skill set: Anyone having a basic knowledge of Windows or UNIX can apply for this course. An additional knowledge about programming will ensure faster learning and implementation in the real-time projects.
+
+Eligibility criteria: Software Professionals such as Programmers, Web Developers, ETL Developers, Analytics Professionals, Automation Engineers, Hadoop Programmers, Project Managers, and even beginners must learn Python to compete well and to ensure their success in the IT sector. click here to view syllabus
+
+ 
+Tableau
+
+The Tableau Course at the ETLhive ensures an in-depth understanding of the Tableau Desktop Skills,whereby you will gain a meaningful insight into Data Visualization, conditional formatting, scripting, and organising and simplifying data.
+
+Required skill set: There are no technical prerequisites as such. However, knowledge of SQL would be beneficial.   
+
+Eligibility criteria: This course is ideal for individuals interested in building their careers in the profiles such as Data Scientists, Business Analysts, Statisticians and Analysts, IT developers & testers, and Project Managers. Professionals who work with ETL/BI Tools, who do MIS Reporting, and those who deal in Statistics or Data Science are the key beneficiaries of this course..click here to view syllabus
+
+ 
+Devops_13
+Devops
+
+DevOps is a set of effective principles which promises a number of technical and business benefits, making it one of the most significant training programmes.
+
+Required skill set: There are no technical prerequisites for devOps. However, basic understanding of Linux and Networking will be beneficial.
+
+Eligibility criteria: The course is ideal for all those individuals who aspire to become DevOps Engineers, Software Developers and Architects. Knowledge of DevOps will be beneficial to Project Managers, Testing Professionals, Consultants, and Internal and External Suppliers, who deal in designing and improvement processes.click here to view syllabus
+
+Spark & Scala
+
+Spark and Scala course at  ETLhive is a comprehensive course that takes into consideration all the significant concepts such as Spark Streaming, Spark SQL, Graph X Programming, and Machine Learning Programming.
+
+Required skill set: Knowledge of Hadoop, Functional Programming, and Object Oriented Programming is surely an advantage for undertaking this course
+
+Eligibility criteria: All those individuals who want to make it big in the Big Data Analytics must opt for this course. Individuals aspiring to become Software Architects, Data Scientists, Analytics Professionals, IT Developers and Testers may take this course for skill enhancement..click here to view syllabus
+
+Next Page
+                                            Bigdata Hadoop Training in Pune
+
+ETLhive is the Best Big Data Hadoop Training Institute in Pune.As a pioneer in Bigdata Hadoop Training,Etlhive is aware of how Hadoop is gaining popularity in the market. Hadoop as a service is in demand and Hadoop’s undying popularity is one of the prime reasons why ETLhive has been into Hadoop Training since years. ETLhive’s Bigdata and Hadoop Training in Pune is a sure-shot way towards becoming successful Hadoop professionals.We are known as the Most-Referred Institute that provides Hadoop Training and Placement in Pune. A leader in the training industry, ETLhive has been providing customer training, corporate training, and online training. ETLhive has trained more than 5000 candidates in just 2 years. For customer training, you can walk into our training institutes at Pimple Saudagar, Kharadi, Nal Stop, or you may contact us for an effective world-class corporate training. ETLhive is a training vendor for many MNCs. Our training institutes are well-equipped and we use webinars, high-definition videos, and audio capability servers to deliver the best online training. The course is comprehensive enough to cover basic and advanced concepts related to Hadoop such as Hadoop Java API, Pig Latin. Hive, HBase Zookeeper, Sqoop, Flume, Oozie, Hue, MongoDB, Kafka, Spark & Scala, Elastic Search, and Yarn. The training professionals are highly-educated and industry-experienced and they focus largely on hands-on training in Hadoop.It is because of such practical sessions that ETLhive has been recognized as the Best Institute that provides  Hadoop Training and Placement in Pune.ETLhive’s Hadoop Training Course has significantly emerged as the best training course in Pune and across the country. Come, join, learn, and excel with ETLhive because We Deliver What We Promise!
+ 
+Our Amenities 
+     Parking
+    Conference Rooms
+    Complimentary WiFi
+ 
+      Technical support
+      Phone banks
+        Computer Labs
+     Cafe Area
+Courses I
+Courses II
+Courses III
+Branch
+Connect with Us
+Hadoop
+Informatica
+Selenium
+Software Testing
+Core Java
+Advance Java
+Advanced excel
+Data Science
+Pl/Sql
+AngularJs
+Spark & Scala
+Python
+Salesforce
+Mean Stack
+Tableau
+Devops
+Digital Marketing Certification
+Pimple Saudagar
+Kharadi
+Nal Stop
+
+
+Contact us
+   8055020011
+
+   mail@etlhive.com	
+top
+ETLHIVE is a Trademark of Itelligence Infotech Pvt Ltd.
+
+    Best Bigdata and Hadoop training in pune
+    Terms & Conditions
+    Privacy Policy
+    Refund Policy
+
+DEMO 13th May P.SAUDAGAR–Hadoop-9:30AM| ETL-10:30AM|NAL STOP–Hadoop-2:00PM| KHARADI-Hadoop-10:00AM |Data Science-10:00AM| NEW BATCH–13th May–P.SAUDAGAR-Selenium-11:00AM| Java-4.00PM| Python-11:00AM| Tableau-4:30PM| (NALSTOP)-Data Science-10:00AM| Selenium-02.00PM| AngularJS-11:30AM| (KHARADI)-ETL-9:00AM| 14th May-P.SAUDAGAR - Data Science-2:00PM|
+
+
+
+

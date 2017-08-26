@@ -1,0 +1,25 @@
+-- pig -x local -param IPPATH=./Website_data/etlhive.txt -param KEYPATH=./keywords.csv web_cat.pig
+
+
+-- SITE =  LOAD'./Website_data/etlhive.txt';
+
+SITE =  LOAD'$IPPATH';
+
+B= FOREACH SITE GENERATE FLATTEN(TOKENIZE(REPLACE(UPPER($0),'[^A-Z0-9 ]',''))) AS (WORD:CHARARRAY);
+
+D= GROUP B BY $0;
+
+E= FOREACH D GENERATE $0,COUNT($1);
+
+-- F= ORDER E BY $1 DESC;
+-- KEYS = LOAD'/home/dk/keywords.csv' USING PigStorage(',') AS (WORD:CHARARRAY,CATEGORY:CHARARRAY);
+
+KEYS = LOAD'$KEYPATH' USING PigStorage(',') AS (WORD:CHARARRAY,CATEGORY:CHARARRAY);
+
+CHECK = JOIN E BY $0, KEYS BY $0;
+
+GP = GROUP CHECK BY $3;
+
+CN = LIMIT (ORDER (FOREACH GP GENERATE $0,SUM($1.$1)) BY $1 DESC) 1;
+
+STORE CN INTO '${IPPATH}_CATEGORY';
